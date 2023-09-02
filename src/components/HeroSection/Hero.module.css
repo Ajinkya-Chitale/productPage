@@ -1,0 +1,9 @@
+.heroSection {
+    max-width: 1125px;
+    margin: 0 auto;
+}
+
+.heroImage {
+    max-width: 430px;
+    height: auto;
+}
